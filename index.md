@@ -2,12 +2,12 @@
 
 layout: col-sidebar
 title: OWASP Madison
-tags: meeting-tag
+tags: example-tag
 level: 0
 
 region: United States
 
-auto-migrated: 0
+auto-migrated: 1
 
 ---
 ## Welcome
