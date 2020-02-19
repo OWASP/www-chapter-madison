@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Madison
-tags: example-tag
+tags: meeting-tag
 level: 0
 
 region: United States
@@ -27,9 +27,9 @@ Please change these items to indicate the actual information you wish to present
 
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
-```
+
 ## Welcome
-Include some information here about your chapter
+Include some information here about your chapter, We are in Madison Wi.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -42,7 +42,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - Meeting Location
 - Everyone is welcome to join us at our chapter meetings.
 
-```
+
 {info.md}
 
 This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
