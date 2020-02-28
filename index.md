@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Madison
-tags: example-tag
+tags: Meetings-tag
 level: 0
 
 region: United States
