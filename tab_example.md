@@ -6,6 +6,6 @@ order: 1
 tags: example-tag
 ---
 
-## Example
+## Meeting
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all. And this is really cool.
+Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
