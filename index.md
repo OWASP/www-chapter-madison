@@ -16,8 +16,11 @@ auto-migrated: 0
 ## Local News
 - Next Meeting 
     Location: Brass Ring 701 East Washington Ave Madison Wi
+
     Date: 3/3/2020
+
     Time: 3:00PM - 5:00PM
+
     Topic: OWASP project Coding DOJO
 
 - Everyone is welcome to join us at our chapter meetings.
