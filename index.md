@@ -29,8 +29,7 @@ Everyone is welcome to join us at our chapter meetings.
 - Meeting Location
 - Everyone is welcome to join us at our chapter meetings.
 
-
-{info.md}
+<-- {info.md}
 
 This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
 
