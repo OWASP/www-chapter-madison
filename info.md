@@ -2,5 +2,5 @@
 * Chapter Region
 
 ### Social Links
-* [Meetup](#)
+* [Meetup](#)https://www.meetup.com/owasp-madison/
 * [Social Link](#)-->
