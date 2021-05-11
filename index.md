@@ -12,7 +12,7 @@ auto-migrated: 0
 ---
 ## Welcome
 
-{% include chapter_events.html group=page.owasp-madison %} 
+{% include chapter_events.html group=page.meetup-group %} 
 
 ## Local News
 Next Meeting
