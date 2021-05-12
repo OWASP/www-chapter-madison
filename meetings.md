@@ -1,9 +1,9 @@
 ---
-title: Past Meetings
+title:  Meetings
 layout:  null
 tab: true
 order: 1
-tags: Past Meeetings
+tags: meetings
 ---
 
 ## Meeting
