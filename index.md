@@ -11,7 +11,7 @@ meetup-group: owasp-madison
 ## Welcome 
 OWASP Madison Reboot!
 
-[Join us on Slack](https://join.slack.com/share/zt-qdr20zpd-sb1qZovlu_07FY02q6T3NA) 
+To Join us on Slack, [head to the OWASP Contact Us page ](https://owasp.org/contact/) and submit your email to join. Once you're signed in, [proceed to our channel](https://owasp.slack.com/archives/C01QPL4U3J6) #chapter-madison
 
 **Tip** I had luck creating a new account instead of trying to get access granted to an existing account from another *workspace*, there are a number of invitations pending from names of local Madison companies ;) 
 
