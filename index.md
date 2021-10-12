@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Madison
-tags: example-tag
+tags: madison, chapter
 level: 0
 region: North America
 auto-migrated: 0
@@ -11,7 +11,7 @@ meetup-group: owasp-madison
 ## Welcome 
 OWASP Madison Reboot!
 
-To Join us on Slack, [head to the OWASP Contact Us page ](https://owasp.org/contact/) and submit your email to join. Once you're signed in, [proceed to our channel](https://owasp.slack.com/archives/C01QPL4U3J6) #chapter-madison
+To Join us on Slack, [head to the OWASP Contact Us page ](https://owasp.org/contact/) and submit your email to join. Once you're signed in, proceed to our channel #chapter-madison
 
 **Tip** I had luck creating a new account instead of trying to get access granted to an existing account from another *workspace*, there are a number of invitations pending from names of local Madison companies ;) 
 
