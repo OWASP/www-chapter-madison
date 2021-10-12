@@ -1,5 +1,5 @@
 ---
-layout: col-sidebar
+layout: null 
 title: OWASP Madison
 tags: madison, chapter
 level: 0

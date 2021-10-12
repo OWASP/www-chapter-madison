@@ -1,6 +1,6 @@
 ---
 
-layout: col-sidebar
+layout: null 
 title: OWASP Madison
 tags: example-tag
 level: 0
