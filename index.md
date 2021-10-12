@@ -1,7 +1,8 @@
 ---
-layout: null 
+
+layout: col-sidebar
 title: OWASP Madison
-tags: madison, chapter
+tags: example-tag
 level: 0
 region: North America
 auto-migrated: 0
