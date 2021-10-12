@@ -1,6 +1,6 @@
 ---
 title: Archives
-layout:  col-sidebar
+layout:  null
 tab: true
 order: 1
 tags: archives
