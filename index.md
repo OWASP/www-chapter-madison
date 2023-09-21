@@ -5,6 +5,7 @@ title: OWASP Madison
 tags: madison
 level: 0
 region: North America
+country: USA
 auto-migrated: 0
 meetup-group: owasp-madison
 ---
