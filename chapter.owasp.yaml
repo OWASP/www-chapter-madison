@@ -1,0 +1,32 @@
+community:
+  - name: chapter-madison
+    platform: slack
+    url: https://owasp.slack.com/archives/C01QPL4U3J6
+    description: OWASP Chapter - Madison, WI
+leaders:
+  - name: Lance Rudolph
+    email: lance.rudolph@owasp.org
+    github: lcrudolph
+  - name: Drew Thompson
+    email: drew.thompson@owasp.org
+    github: officerNordberg
+  - name: Ryan Zagrodnik
+    email: ryan.zagrodnik@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: Wisconsin
+  city: Madison
+  latitude: 43.074761
+  longitude: -89.3837613
+meetup_group: owasp-madison
+name: OWASP Madison
+repositories:
+  - name: www-chapter-madison
+    url: https://github.com/OWASP/www-chapter-madison
+    description: OWASP Foundation Web Repository
+tags:
+  - madison
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-madison
